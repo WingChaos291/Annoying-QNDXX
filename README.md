@@ -1,15 +1,7 @@
----
-title: Annoying-QNDXX
-date: 2021-07-26 18:24:36
-tags: [网页,青年大学习]
-description: 跳过青年大学习视频，直接答题截图走人
-index_img: /img/annoying-QNDXX.jpg
----
-<p class="note note-warning">
-	WARNING<br>
-    在学习本方法前你应当清楚，此行为违背了青年大学习网上主题团课的最初目的，可能造成不好的后果！
-</p>
 
+
+`**WARNING  
+在学习本方法前你应当清楚，此行为违背了青年大学习网上主题团课的最初目的，可能造成不好的后果！**`
 
 
 ### 原理
@@ -38,7 +30,7 @@ debugmm.qq.com/?forcex5=true
 
 
 
-<img alt="" src="/img/annoying-QNDXX/ensurex5.jpg" width=40%><img alt="" src="/img/annoying-QNDXX/x5ison.jpg" width=40%>
+<img alt="" src="/img/annoying-QNDXX/ensurex5.jpg" width=30%><img alt="" src="/img/annoying-QNDXX/x5ison.jpg" width=30%>
 
 
 
@@ -60,7 +52,7 @@ http://debugx5.qq.com
 
 
 
-<img alt="" src="/img/annoying-QNDXX/openVconsole1.jpg" width=40%><img alt="" src="/img/annoying-QNDXX/openVconsole2.jpg" width=40%><img alt="" src="/img/annoying-QNDXX/openVconsole3.jpg" width=40%>
+<img alt="" src="/img/annoying-QNDXX/openVconsole1.jpg" width=30%><img alt="" src="/img/annoying-QNDXX/openVconsole2.jpg" width=30%><img alt="" src="/img/annoying-QNDXX/openVconsole3.jpg" width=30%>
 
 
 
@@ -104,7 +96,7 @@ __vconsole.style.display="none";
 
 
 
-<img alt="" src="/img/annoying-QNDXX/begin1.jpg" width=40%><img alt="" src="/img/annoying-QNDXX/begin2.jpg" width=40%><img alt="" src="/img/annoying-QNDXX/end.jpg" width=40%>
+<img alt="" src="/img/annoying-QNDXX/begin1.jpg" width=30%><img alt="" src="/img/annoying-QNDXX/begin2.jpg" width=30%><img alt="" src="/img/annoying-QNDXX/end.jpg" width=30%>
 
 
 
